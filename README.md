@@ -8,8 +8,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on distributed system and tracing.
 - 🌱 I’m currently learning Rust, Kafka.
-- 👯 I’m looking to collaborate on open source projects. 
-// - 🤔 I’m looking for help with golang testing. 
+- 👯 I’m looking to collaborate on open source projects.  
 - 💬 Ask me about python, oci, k8s.
 - 📫 How to reach me: rajib.jolite@gmail.com
 - 😄 Pronouns: He/Him. 
