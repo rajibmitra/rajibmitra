@@ -10,6 +10,6 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on distributed system and tracing.
 - 🌱 I’m currently learning Rust,webassembly and Kafka.
 - 💬 Ask me about python, k8s, cloud, distributed things.
-- 📫 How to reach me: you will figure it out! ;) 
+- 📫 How to reach me: drop me a mail or ping me at k8s slack ;) 
 - 😄 Pronouns: He/Him. 
 
